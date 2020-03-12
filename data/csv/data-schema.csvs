@@ -1,0 +1,4 @@
+version 1.1
+@totalColumns 2
+image_width: positiveInteger
+image_height: positiveInteger
